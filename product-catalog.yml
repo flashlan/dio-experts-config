@@ -1,6 +1,6 @@
 server:
   port:
-    8081
+    8082
 
 eureka:
   instance: 
